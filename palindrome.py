@@ -7,3 +7,4 @@ if(s == rev):
     print("palindrome")
 else:
     print("no") 
+
